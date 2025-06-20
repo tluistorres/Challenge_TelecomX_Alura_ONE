@@ -23,14 +23,15 @@ As principais etapas de preparação dos dados incluíram:
 - Distribuição de Gasto Total: Clientes que cancelaram tendem a ter contratos mais curtos e menor gasto total.
 
 ## 🧠 Insights Principais
-- Idosos e clientes com contrato mensal ou pagamento eletrônico automático têm maior chance de cancelar.
-- Clientes com menor tempo de contrato e menor gasto total estão mais propensos a cancelar.
-- Estratégias de fidelização devem focar nesses perfis específicos.
+
+- "Idosos e clientes com contrato mensal ou pagamento eletrônico automático apresentam uma maior propensão ao cancelamento."
+- "Clientes com contratos mais curtos e gastos totais mais baixos têm uma maior probabilidade de cancelar."
+- "É fundamental desenvolver estratégias de fidelização personalizadas para esses perfis de clientes."
 
 ## 🚀 Acesso ao Projeto
 Para executar o projeto, siga as etapas:
 
-- Clone este repositório: git clone https://github.com/tluistorres/Challenge_Telecom_Alura_ONE.git
+- Clone este repositório: git clone [https://github.com/tluistorres/Challenge_Telecom_Alura_ONE.git](https://github.com/tluistorres/Challenge_TelecomX_Alura_ONE)
 
 ## 🛠 Tecnologias Utilizadas
 - Python 3
