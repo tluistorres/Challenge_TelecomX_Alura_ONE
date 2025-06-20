@@ -81,7 +81,7 @@ Para executar o projeto, siga as etapas:
 - Clone este repositório: git clone [https://github.com/tluistorres/Challenge_Telecom_Alura_ONE.git](https://github.com/tluistorres/Challenge_TelecomX_Alura_ONE)
 
 ## 👩‍💻 Desenvolvedor do Projeto
-https://github.com/tluistorres
+- https://github.com/tluistorres
 
 ## 👥 Contato
 - [Luís Torres]
