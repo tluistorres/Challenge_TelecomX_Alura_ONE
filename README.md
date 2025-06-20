@@ -1,5 +1,3 @@
-
-
 # 📊 Challenge Telecom_X | Análise de Evasão de Clientes (EDA)
 
 ## 🚀 Objetivo
@@ -12,14 +10,17 @@ As principais etapas de preparação dos dados incluíram:
 - Separação de campos aninhados em colunas planas
 - Remoção de registros com valores ausentes em colunas
 - Padronização e tradução de colunas para melhor entendimento dos analistas brasileiros
-- Criação da variável Conta_Diarias, baseada na fatura mensal
 
-## 📊 Funcionalidades e Demonstrações
-- Proporção de Cancelamentos: Cerca de 25,7% dos clientes cancelaram o serviço.
-- Proporção de Cancelamentos Maiores: Porcentagens de Churn por Categoria:
-- Clientes idosos
-- Contratos mensais
-- Certos métodos de pagamento apresentaram maior risco de cancelamento.
+
+📊 Principais Resultados da Análise
+
+A análise revelou os seguintes resultados:
+
+- Proporção de Cancelamentos: Aproximadamente 25,7% dos clientes optaram por cancelar o serviço.
+- Proporção de Cancelamentos Maiores: As seguintes categorias apresentaram maior risco de cancelamento:
+- Clientes idosos apresentaram uma maior propensão ao cancelamento.
+- Contratos mensais tiveram uma maior taxa de cancelamento.
+- Certos métodos de pagamento apresentaram um maior risco de cancelamento.
 - Distribuição de Gasto Total: Clientes que cancelaram tendem a ter contratos mais curtos e menor gasto total.
 
 ## 🧠 Insights Principais
