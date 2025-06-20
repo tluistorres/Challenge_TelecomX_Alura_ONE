@@ -12,9 +12,7 @@ As principais etapas de preparação dos dados incluíram:
 - Padronização e tradução de colunas para melhor entendimento dos analistas brasileiros
 
 
-📊 Principais Resultados da Análise
-
-A análise revelou os seguintes resultados:
+## 📊 Principais Resultados da Análise
 
 - Proporção de Cancelamentos: Aproximadamente 25,7% dos clientes optaram por cancelar o serviço.
 - Proporção de Cancelamentos Maiores: As seguintes categorias apresentaram maior risco de cancelamento:
@@ -29,11 +27,6 @@ A análise revelou os seguintes resultados:
 - "Clientes com contratos mais curtos e gastos totais mais baixos têm uma maior probabilidade de cancelar."
 - "É fundamental desenvolver estratégias de fidelização personalizadas para esses perfis de clientes."
 
-## 🚀 Acesso ao Projeto
-Para executar o projeto, siga as etapas:
-
-- Clone este repositório: git clone [https://github.com/tluistorres/Challenge_Telecom_Alura_ONE.git](https://github.com/tluistorres/Challenge_TelecomX_Alura_ONE)
-
 ## 🛠 Tecnologias Utilizadas
 - Python 3
 - Pandas
@@ -43,9 +36,6 @@ Para executar o projeto, siga as etapas:
 - Google Colab
 - Google Drive
 - Markdown
-
-## 👩‍💻 Desenvolvedora do Projeto
-https://github.com/tluistorres
 
 ## 📈 Análise Exploratória de Dados (EDA)
 A análise exploratória revelou importantes padrões de comportamento entre os clientes.
@@ -75,7 +65,6 @@ A análise exploratória revelou importantes padrões de comportamento entre os 
 - O modelo de classificação Random Forest mostrou-se eficaz em prever a probabilidade de um cliente abandonar o serviço
 - Os resultados podem ser utilizados para desenvolver estratégias de retenção de clientes e melhorar a experiência do usuário.
 
-  
 ## 🚀 Próximos Passos
 - Implementar o modelo de classificação em produção
 - Continuar a coletar e analisar dados para melhorar a acurácia do modelo
@@ -85,6 +74,14 @@ A análise exploratória revelou importantes padrões de comportamento entre os 
 - Clone o repositório
 - Instale as dependências necessárias
 - Execute o código em Python
+
+## 🚀 Acesso ao Projeto
+Para executar o projeto, siga as etapas:
+
+- Clone este repositório: git clone [https://github.com/tluistorres/Challenge_Telecom_Alura_ONE.git](https://github.com/tluistorres/Challenge_TelecomX_Alura_ONE)
+
+## 👩‍💻 Desenvolvedor do Projeto
+https://github.com/tluistorres
 
 ## 👥 Contato
 - [Luís Torres]
